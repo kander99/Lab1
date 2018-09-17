@@ -1,0 +1,1 @@
+this is a readme file for the lab1 in the CoSc class
